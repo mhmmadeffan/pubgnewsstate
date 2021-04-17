@@ -1,0 +1,2 @@
+# pubgnewsstate
+Pubg news state
